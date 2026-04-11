@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
+| [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
