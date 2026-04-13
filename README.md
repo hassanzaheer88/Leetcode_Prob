@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
