@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1470-shuffle-the-array/) | Easy |
@@ -41,6 +42,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
