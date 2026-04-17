@@ -12,6 +12,7 @@
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
