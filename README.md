@@ -21,6 +21,7 @@
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0412-fizz-buzz/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -38,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
@@ -61,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
