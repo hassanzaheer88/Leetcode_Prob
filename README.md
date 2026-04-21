@@ -24,6 +24,7 @@
 | [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
