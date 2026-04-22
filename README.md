@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0412-fizz-buzz/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
@@ -64,6 +66,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
