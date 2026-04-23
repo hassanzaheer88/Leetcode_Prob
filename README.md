@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0412-fizz-buzz/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -75,5 +76,6 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
