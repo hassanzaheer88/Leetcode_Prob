@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -76,6 +77,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
