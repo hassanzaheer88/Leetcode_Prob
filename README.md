@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1470-shuffle-the-array/) | Easy |
@@ -52,11 +53,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0217-contains-duplicate/) | Easy |
 | [0771-jewels-and-stones](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0771-jewels-and-stones/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
