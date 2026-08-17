@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -80,4 +81,8 @@
 | [0020-valid-parentheses](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
