@@ -13,6 +13,7 @@
 | [1470-shuffle-the-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -88,4 +89,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
