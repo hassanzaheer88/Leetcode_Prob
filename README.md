@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -68,6 +70,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/0412-fizz-buzz/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/hassanzaheer88/Leetcode_Prob/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
